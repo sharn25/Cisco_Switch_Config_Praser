@@ -1,0 +1,15 @@
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\bin\Debug\Switch Config Praser.exe.config
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\bin\Debug\Switch Config Praser.exe
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\bin\Debug\Switch Config Praser.pdb
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch Config Praser.csprojAssemblyReference.cache
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\MainWindow.g.cs
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\App.g.cs
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch Config Praser_MarkupCompile.cache
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch Config Praser_MarkupCompile.lref
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\MainWindow.baml
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch Config Praser.g.resources
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch_Config_Praser.Properties.Resources.resources
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch Config Praser.csproj.GenerateResource.cache
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch Config Praser.csproj.CoreCompileInputs.cache
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch Config Praser.exe
+E:\Other\Tools\My_Work\C#_Pro\Switch Config Praser\Switch Config Praser\obj\Debug\Switch Config Praser.pdb

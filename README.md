@@ -13,7 +13,7 @@ Configuration praser tool scans through the switch configuration files and extra
 
 * Open the project in Visual Studio
 * Add the list of configuration file location as per below sample under "MainWindow.xaml.cs"
-'''
+```C#
         private void getConfigFiles()
         {
             configFiles[0] = @"D:\S07_SWT_101";
@@ -22,11 +22,12 @@ Configuration praser tool scans through the switch configuration files and extra
             configFiles[3] = @"D:\d01-stcswt-102-confg";
             configFiles[4] = @"D:\d01-stcswt-103-confg";
         }
-'''
+```
 * Change the output file under MainWindow.xaml
-'''
+```C#
 xWorkBook.SaveAs(@"Enter path to where you want to save file along with file name.xls.", Excel.XlFileFormat.xlWorkbookNormal, misValue, misValue, misValue, misValue, Excel.XlSaveAsAccessMode.xlExclusive, misValue, misValue, misValue, misValue, misValue);
-'''
+```
+
 ## Screenshot of output file
 
 ![screenshot](screenshot/screenshot.PNG "screenshot")
